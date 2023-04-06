@@ -9,7 +9,7 @@ h1 {text-align: center;
 h1 {text-decoration: underline;
 }
 h2 {text-align: center;}
-h2 {color:rgba(196, 82, 6, 0.856)}
+h2 {color:rgba(211, 90, 9, 0.856)}
 
 
 #classic{margin-left:35% ;}
@@ -20,3 +20,4 @@ h4 {color: rgba(73, 103, 201, 0.685);}
 
 #art {width: 50%;}
 #art {margin-left: 20%;}
+h2 {text-decoration-line: none;}
